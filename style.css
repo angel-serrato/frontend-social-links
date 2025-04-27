@@ -175,6 +175,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     font-family: "Inter", sans-serif;
     color: var(--white);
 }
@@ -213,8 +214,8 @@ body {
 
 .card__subtitle {
     font-size: 14px;
-    color: var(--green);
     font-weight: 400;
+    color: var(--green);
     margin-bottom: 14px;
 }
 
