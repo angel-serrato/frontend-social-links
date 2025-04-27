@@ -1,6 +1,6 @@
-# Frontend Mentor - Social Links
+# Frontend Mentor - Social Links Profile
 
-<!-- This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -15,16 +15,16 @@
 
 ## Overview
 
-A simple and clean QR code component card that follows a mobile-first workflow. It includes a card with a QR image, a title, and a short description. The layout is responsive and centered on the page using Flexbox.
+A clean, mobile-first social links profile page. Features a centered card with user details and prominent social media links, built responsively with Flexbox for easy access across devices.
 
 ### Screenshot
 
-![qr-component](https://github.com/user-attachments/assets/540c8dfd-afb9-4a6f-91e2-db90b8eab8d6)
+
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-Bk5BxOG_zC)
-- Live Site URL: [Demo](https://serrato.dev/frontend-qr-code-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-using-html-css-and-bem-HmsSHFEYnU)
+- Live Site URL: [Demo](https://serrato.dev/frontend-social-links/)
 
 ## My process
 
@@ -42,7 +42,7 @@ A simple and clean QR code component card that follows a mobile-first workflow. 
 - [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - A handy guide for naming CSS classes using the BEM (Block Element Modifier) methodology. It provides naming suggestions for common web components like cards, buttons, and forms, helping you maintain organized and scalable code.
 - [Squoosh.app](https://squoosh.app/) - A free, browser-based image compression tool developed by GoogleChromeLabs. Squoosh allows you to compress and compare images with different codecs directly in your browser, ensuring your images are optimized without compromising quality.
 - [Shots.so](https://shots.so/) - An online tool that enables you to create beautiful mockups quickly. Simply drag and drop your screenshots or designs, choose from various devices and backgrounds, and customize the appearance to suit your needs.
-- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/) Tool
+- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/) A foundational CSS stylesheet that aims to reduce inconsistencies between browsers in the default styling of HTML elements. By applying a comprehensive set of rules, it provides a clean slate upon which you can build your own unique styles, ensuring a more predictable rendering across different browsers.
 
 ## Author
 
@@ -52,9 +52,9 @@ A simple and clean QR code component card that follows a mobile-first workflow. 
 
 ## Acknowledgments
 
-Challenge by [Frontend Mentor](https://www.frontendmentor.io/). Thanks for the awesome practice projects! -->
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/). Thanks for the awesome practice projects!
 
-# Front-end Style Guide
+<!-- # Front-end Style Guide
 
 ## Layout
 
@@ -86,4 +86,4 @@ The designs were created to the following widths:
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Weights: 400, 600, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster. -->
