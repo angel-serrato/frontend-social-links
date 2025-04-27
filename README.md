@@ -19,7 +19,7 @@ A clean, mobile-first social links profile page. Features a centered card with u
 
 ### Screenshot
 
-
+![social-links-profile](https://github.com/user-attachments/assets/de4950a2-82a5-4e67-92ac-b608b4e4739d)
 
 ### Links
 
